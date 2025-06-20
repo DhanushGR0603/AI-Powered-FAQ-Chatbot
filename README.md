@@ -81,3 +81,8 @@ helmet, cors, morgan – Security and logging
 ✅ Implement Redis caching for frequent queries
 ✅ Add database support (MongoDB, PostgreSQL) for logging questions
 ✅ Deploy on Railway, Render, or Vercel
+
+🤖 Demo
+
+![Screenshot 2025-06-20 141853](https://github.com/user-attachments/assets/fe966519-4774-41c1-8175-1b2da0b65c62)
+
