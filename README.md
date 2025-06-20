@@ -1,5 +1,5 @@
  AI-Powered FAQ Chatbot
-An intelligent FAQ chatbot built using React and Node.js, powered by NLP techniques via either a small ML model (TensorFlow.js) or OpenAI API (free tier). This bot answers frequently asked questions, provides an interactive messaging UI, and learns from user feedback and unanswered queries.
+An intelligent FAQ chatbot built using React and Node.js, powered by NLP techniques via either a small ML model  OpenAI API (free tier). This bot answers frequently asked questions, provides an interactive messaging UI, and learns from user feedback and unanswered queries.
 
 📌 Objective
 Build a smart chatbot that can:
@@ -12,7 +12,7 @@ Continuously improve based on user feedback.
 
 🛠️ Tech Stack
 Frontend	Backend	AI/NLP	Storage
-React.js	Node.js	TensorFlow.js or OpenAI API (Free Tier)	MongoDB / JSON file / SQLite
+React.js	Node.js	 OpenAI API (Free Tier)	 JSON file 
 
 🧠 Features
 ✅ OpenAI Integration – Uses AI to answer FAQ-style questions.
